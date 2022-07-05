@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tailwind
 - 👯 I’m looking to collaborate on deveolping frontend 
 - 💬 Ask me about Javascript
-- 📫 How to reach me: ...
+- 📫 Find me on [Twitter](https://twitter.com/Anthony__Tarus)
 - ⚡ Fun fact: I can speak Russian
 
