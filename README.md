@@ -20,7 +20,7 @@
 - 🌱 I’m currently focusing on **React JS** and practicing **Tailwind CSS, Firebase** everyday.
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **International Job Opportunities**
-- ⭐ You can find me on [Twitter](https://twitter.com/Anthony__Tarus) ❤ 
+- ⭐ You can find me on [Twitter](https://twitter.com/an_tony03) ❤ 
 
 <br/>
 <br/>
