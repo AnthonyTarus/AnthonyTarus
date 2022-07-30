@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ThinhMDITPTIT/ThinhMDITPTIT/blob/main/images/code.gif">
 </a>
 
-- 🔭 I’m currently working on **[CODE-XTRA](https://code-xtra.com)**
+- 🔭 I’m currently working on **[Code-xtra](https://code-xtra.com)**
 - 🌱 I’m currently focusing on **React JS** and practicing **Tailwind CSS, Firebase** everyday.
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **International Job Opportunities**
